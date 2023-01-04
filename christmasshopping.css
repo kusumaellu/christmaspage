@@ -1,0 +1,43 @@
+body{
+	font-family: 'Roboto';
+}
+.bgimg{
+	background-image: url('https://fdn.gsmarena.com/imgroot/news/20/12/merry-christmas/-1220x526/gsmarena_001.jpg');
+	background-size: cover;
+	height: 80vh;
+	color: whitesmoke;
+	padding-top: 30px;
+	padding-right:30px ;
+	 
+}
+.first{
+	background-color:lightgoldenrodyellow;
+	height: 80vh;
+
+}
+.headline {
+	padding-bottom: 30px;
+	font-size: 50px;
+	font-weight: bold;
+}
+.box{
+	background-color: white;
+	width: 150px;
+	border-radius: 15px;
+	padding: 5px;
+	height: 150px;
+	text-align: center;
+	margin: 20px;
+}
+.image{
+	height: 100px;
+	width: 100px;
+}
+.chrisheading{
+	font-size: 15px;
+	font-family: 'Rboto';
+	font-weight: normal;
+}
+.chrispara{
+	font-weight: bold;
+}
